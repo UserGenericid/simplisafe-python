@@ -1,0 +1,4 @@
+$ git clone https://github.com/bachya/simplisafe-python.git
+$ cd simplisafe-python/
+$ python3 -m virtualenv .venv
+$ source .venv/bin/activate
